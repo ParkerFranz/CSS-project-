@@ -555,11 +555,11 @@ body {
 /*Height adjustments! */
 
 .col {
-	height:20% ;
+	height:100% ;
 	
 }
 
 .secondary-content body html head .content-row-group {
-height:20% ;	
+height:100% ;	
 }
 
