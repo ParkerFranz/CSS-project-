@@ -559,7 +559,7 @@ body {
 	
 }
 
-.secondary-content body html head .content-row-group {
+.secondary-content, body, html, head, .content-row-group {
 height:100% ;	
 }
 
