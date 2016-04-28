@@ -564,7 +564,7 @@ height: 100%;
 	float: right;
 }
 
-html, body, .content-row  {
+html, body, .content-row.group, .secondary-content  {
 	
 	height: 100%;
 }
