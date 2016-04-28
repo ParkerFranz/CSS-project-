@@ -564,13 +564,13 @@ height: 100%;
 	float: right;
 }
 
-html, body, .content-row, .col  {
+html, body, main-wrapper, .content-row, .col  {
 	
 	height: 100%;
 }
 
 
 #cartoon {
-	width: 80%;
+	width: 60%;
 	display: inline;
 }
