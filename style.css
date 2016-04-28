@@ -564,7 +564,7 @@ height: 100%;
 	float: right;
 }
 
-html, body, main-wrapper, .content-row, .col  {
+html, body, .main-wrapper, .content-row, .col  {
 	
 	height: 100%;
 }
