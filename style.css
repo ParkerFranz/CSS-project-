@@ -564,7 +564,7 @@ height: 100%;
 	float: right;
 }
 
-.content-row {
+.content-row, body {
 	
 	height: 100%;
 }
