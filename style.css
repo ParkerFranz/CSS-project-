@@ -596,7 +596,7 @@ html, body, .main-wrapper, .content-row, .col  {
 }
 
 
-.class:before { content:"\03a9"; 
+q:before { content:"\03a9"; 
 	margin: 10px;
 	
 	
