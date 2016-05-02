@@ -594,3 +594,9 @@ html, body, .main-wrapper, .content-row, .col  {
 	
 	background-color: #ffcc99;
 }
+
+
+p:before { content:"\03a9"; }
+
+
+
